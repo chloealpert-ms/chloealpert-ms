@@ -1,53 +1,68 @@
 ---
-title: "How to model ownership & dilution, and how pro rata works in venture capital deals."
+title: "How to Model Ownership and Dilution, and How Pro Rata Works in Venture Capital Deals"
 date: "2020-09-08"
+updated: "2026-08-13"
 slug: "how-to-model-ownership-dilution-and-how-pro-rata-works-in-venture-capital-deals"
-description: "Raise $1M at $5M, then $7M at $25M — how much do you still own? Modeling ownership, dilution, and pro rata rights across venture rounds, with tables."
+description: "Raise $1M at $5M, then $7M at $25M. How much do you still own? Modeling ownership, dilution, and pro rata rights across venture rounds, with cap tables."
 seo_title: "How Dilution and Pro Rata Work"
-keywords: "dilution, pro rata, cap table, venture capital, ownership modeling, seed to series C"
+keywords: "dilution, pro rata rights, cap table modeling, ownership targets, pre-money valuation, post-money valuation, option pool, secondary sale, venture capital"
 ---
 
-When you raise $1M on a $5M valuation, that’s selling 20% of the company, right? But what happens when you then raise $7M on a $25M valuation? You’ve sold 28%, you’re already out 48% of your company! Actually no, that’s not the case, and I’ll explain below.
+When you raise $1M on a $5M valuation, that’s selling 20% of the company, right? So what happens when you then raise $7M on a $25M valuation? You’ve sold another 28%, so you’re out 48% of your company. Actually, no. Here’s why.
 
-When it comes to modeling dilution and pro rata rights, you can use a simple calculation to build out your current and future financing scenarios and see how it plays out in the long run.
+When it comes to modeling dilution and pro rata rights, a simple calculation lets you build out your current and future financing scenarios and see how ownership plays out over the long run.
 
-You can [access my cap table calculator here](https://bit.ly/3MiM28x) to download and use with this article, and use for your own purposes. If you have questions or need help, feel free to comment, or email me or tweet me [@chloealpert](http://www.twitter.com/chloealpert)
+You can [access my cap table calculator here](https://bit.ly/3MiM28x) to download and follow along with this article, or use for your own purposes. If you have questions or need help, comment, email me, or find me on Twitter at [@chloealpert](http://www.twitter.com/chloealpert).
 
-So let’s start by incorporating a company.
+## Start at incorporation
 
 ![Cap table at incorporation showing founder share counts and ownership percentages](/images/Incorporation-Table.png)
 
-What you see is a pretty standard incorporation table. Most companies will generally incorporate a C corporation with 10M shares, but you don’t have to do that. You can incorporate with any number you want, but nice round numbers generally make the math easier. You also will set a par value for your shares, which can be as low as you want, generally $.0001 or some variation is used so you can purchase your stock for next to nothing (because it’s currently worth nothing) and file your 83(b) election.
+That’s a standard incorporation table. Most companies incorporate a C corporation with 10M shares, though you don’t have to. You can incorporate with any number you want, and round numbers make the math easier. You also set a par value for your shares, which can be as low as you like, usually $0.0001 or some variation, so you can purchase your stock for next to nothing (because it’s currently worth nothing) and file your 83(b) election.
 
-Now let’s assume you go out and raise $1M on a $5M pre-money valuation. This is what the table would look like.
+## Modeling the seed round
+
+Now assume you go out and raise $1M on a $5M pre-money valuation. Here’s the table.
 
 ![Cap table after a $1M seed raise on a $5M pre-money valuation](/images/Screen-Shot-2020-09-08-at-3.26.19-PM.png)
 
-You can see that while the seed investor took 20% of the round, their ownership on a post money basis is actually 16% if you consider the total number of shares between the founders and the employee option pool.
+The seed investor took 20% of the round, but their ownership on a post-money basis is actually 16% once you account for the total number of shares between the founders and the employee option pool.
 
-Now similarly, let’s do a series A where the same company raises $7M on a $25M pre-money valuation. The series A investors are taking up 28% of the round, and when modeled out on a post basis, that A investor ends up with 21.8% of the company.
+## Modeling the Series A
+
+Now do a Series A where the same company raises $7M on a $25M pre-money valuation. The Series A investors take 28% of the round, and modeled out on a post-money basis, that investor ends up with 21.8% of the company.
 
 ![Cap table after a $7M Series A on a $25M pre-money valuation, showing the investor at 21.8% post-money](/images/Series-A.png)
 
-Generally seed and series A investors have ownership targets to maintain, so let’s say we now do a series B, and in order to maintain their ownership percentage, the Series A investor executes their pro rata rights.
+## How pro rata rights work
 
-Literally translated, _pro rata_ means “according to the rate”, but the way to think about it is basically the right to maintain a proportional ownership percentage of the company.
+Seed and Series A investors generally have ownership targets to maintain. So let’s do a Series B where the Series A investor exercises their pro rata rights to hold their percentage.
+
+Translated literally, _pro rata_ means “according to the rate.” The way to think about it is the right to maintain a proportional ownership percentage of the company.
 
 > “You invest $50k in a seed round at a $5mm cap and own 1% of the company. The next round is a $3mm round at $9mm pre, $12mm post. If you don’t participate, you will be diluted 25% and will then own 0.75% of the company. On the other hand, if you buy 1% of the round, a $30k investment, you will continue to own 1% of the company. Your ‘pro-rata right’ in this situation is a $30k allocation in the next round.”
-> _Via Jason Rowley _
+> _Via Jason Rowley_
 
-The math to calculate the pro-rata amounts is simply (target ownership %) x (number of new shares being issued) x (share price at new round). That’s reflected below. What you can see is that the original series A investment is commensurately diluted, but the new money invested as pro rata maintains the ownership target.
+The math for a pro rata amount is simply (target ownership %) x (number of new shares being issued) x (share price at the new round). That’s reflected below. The original Series A investment gets diluted the same as everyone else, and the new money invested as pro rata brings the investor back to their ownership target.
 
 ![Series B cap table showing pro rata participation and how earlier investors are diluted](/images/Series-B.png)
 
-In this Series B, there are a few things to pay attention to – the first is that even though the founders have been diluted below 50% ownership, the 4.6x step up in valuation means that founders equity is now worth over $83M with the same number of shares. When you’re raising money you have to understand that there’s a balance between dilution and step ups in share value, and you can’t always be optimizing for dilution. If you truly care about maintaining ownership in your company, you _probably_ shouldn’t take venture capital in the first place. That aside, in this scenario, you can see that the series A investor put additional capital in to execute their pro rata right to maintain close to a 20% ownership target in the company. They most likely won’t participate beyond the B which would be driven by their business model and fund mandate.
+## Dilution versus the step up in share price
 
-Now, not all investors execute their pro rata rights, and sometimes if you allow too many investors to do it, there’s not enough room to complete the round without losing your shirt. Investors understand that if founders are over-diluted at the early stages, they lack incentive to continue operating. So, in as much as you have math driving the valuation, sometimes founders will have no choice other than to block or limit pro rata amounts of existing investors. This can often result in hurt feelings and some angry words and it’s unfortunately one of the crappy sides of raising money, particularly as you get bigger and start making money.
+A few things to notice in this Series B. Even though the founders have been diluted below 50% ownership, the 4.6x step up in valuation means founder equity is now worth over $83M on the same number of shares. When you raise money, you have to understand the balance between dilution and step ups in share value. You can’t always optimize for dilution. If you truly care about maintaining ownership of your company, you _probably_ shouldn’t take venture capital in the first place.
 
-To close it out, I figured we’d make our company close a series C and hit unicorn status on a post-money basis. As you can see, the founders still own quite a large amount, and generally what founders would do at this round (and usually the B) is something called a secondary sale.
+That aside, you can see the Series A investor put in additional capital to execute their pro rata right and hold close to a 20% ownership target. They most likely won’t participate beyond the B, and that decision comes down to their business model and fund mandate. I wrote about why fund mandates work that way in [why venture capital firms with tons of money can’t write little checks](/why-venture-capital-firms-with-tons-of-money-cant-write-little-checks/).
+
+## When founders have to limit pro rata
+
+Not every investor executes their pro rata rights, and if you let too many of them do it, there isn’t enough room to complete the round without losing your shirt. Investors understand that founders who are over-diluted early lack the incentive to keep operating. So even with math driving the valuation, founders sometimes have no choice but to block or limit the pro rata amounts of existing investors. That can produce hurt feelings and some angry words, and it’s one of the genuinely unpleasant parts of raising money, especially as you get bigger and start making real revenue.
+
+## Series C and the case for a secondary sale
+
+To close it out, let’s take the company through a Series C and hit unicorn status on a post-money basis. The founders still own quite a lot, and what founders typically do at this round, and often at the B, is a secondary sale.
 
 ![Series C cap table at a $1B post-money valuation, showing remaining founder ownership](/images/Series-C.png)
 
-The reason investors would push for founders in particular to do a secondary sale of their private company stock is to give the founders some initial liquidity for their time. The idea is that this will make them less risk-adverse when it comes to pushing for the company to go big, as well as make some of their shares available to existing investors who might want to expand their ownership prior to going public.
+Investors push for founders to sell a small piece of their private stock to give them some initial liquidity for their time. The theory is that a founder with a little liquidity is less risk-averse about pushing the company to go big. It also frees up shares for existing investors who want to expand their ownership before an IPO.
 
-All in all, this is a quick oversimplification of a very complex topic, but hopefully this will give first time founders a sense of how to model ownership and investment into their companies and plan for the future.
+All in, this is a quick simplification of a genuinely complex topic, but it should give first-time founders a sense of how to model ownership and investment in their companies and plan ahead.

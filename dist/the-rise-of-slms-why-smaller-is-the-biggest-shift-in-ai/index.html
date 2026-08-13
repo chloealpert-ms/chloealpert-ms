@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>The Rise of Small Language Models — Chloe Alpert</title>
-<meta name="description" content="The biggest shift in AI isn&#x27;t bigger models — it&#x27;s smaller ones. Why small language models beat frontier LLMs on cost, latency, and control.">
+<meta name="description" content="The biggest shift in AI isn’t bigger models, it’s smaller ones. Why small language models beat frontier LLMs on cost, latency, privacy, and control.">
 <meta name="author" content="Chloe Alpert">
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 <link rel="canonical" href="https://chloealpert.com/the-rise-of-slms-why-smaller-is-the-biggest-shift-in-ai/">
@@ -12,15 +12,18 @@
 <meta property="og:site_name" content="Chloe Alpert">
 <meta property="og:locale" content="en_US">
 <meta property="og:title" content="The Rise of Small Language Models — Chloe Alpert">
-<meta property="og:description" content="The biggest shift in AI isn&#x27;t bigger models — it&#x27;s smaller ones. Why small language models beat frontier LLMs on cost, latency, and control.">
+<meta property="og:description" content="The biggest shift in AI isn’t bigger models, it’s smaller ones. Why small language models beat frontier LLMs on cost, latency, privacy, and control.">
 <meta property="og:url" content="https://chloealpert.com/the-rise-of-slms-why-smaller-is-the-biggest-shift-in-ai/">
 <meta name="twitter:title" content="The Rise of Small Language Models — Chloe Alpert">
-<meta name="twitter:description" content="The biggest shift in AI isn&#x27;t bigger models — it&#x27;s smaller ones. Why small language models beat frontier LLMs on cost, latency, and control.">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="The biggest shift in AI isn’t bigger models, it’s smaller ones. Why small language models beat frontier LLMs on cost, latency, privacy, and control.">
+<meta property="og:image" content="https://chloealpert.com/images/og-default.png">
+<meta property="og:image:alt" content="The Rise of Small Language Models">
+<meta name="twitter:image" content="https://chloealpert.com/images/og-default.png">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@chloealpert">
 <meta name="twitter:creator" content="@chloealpert">
 <meta property="article:published_time" content="2025-11-09">
-<meta property="article:modified_time" content="2025-11-09">
+<meta property="article:modified_time" content="2026-08-13">
 <meta property="article:author" content="Chloe Alpert">
 <link rel="alternate" type="application/rss+xml" title="Chloe Alpert" href="/rss.xml">
 <link rel="preload" href="/fonts/inter-latin.woff2" as="font" type="font/woff2" crossorigin>
@@ -32,15 +35,15 @@
   {
    "@type": "BlogPosting",
    "@id": "https://chloealpert.com/the-rise-of-slms-why-smaller-is-the-biggest-shift-in-ai/#article",
-   "headline": "The Rise of SLMs: Why “Smaller” Is the Biggest Shift in AI",
-   "description": "The biggest shift in AI isn't bigger models — it's smaller ones. Why small language models beat frontier LLMs on cost, latency, and control.",
+   "headline": "The Rise of SLMs: Why Smaller Is the Biggest Shift in AI",
+   "description": "The biggest shift in AI isn’t bigger models, it’s smaller ones. Why small language models beat frontier LLMs on cost, latency, privacy, and control.",
    "url": "https://chloealpert.com/the-rise-of-slms-why-smaller-is-the-biggest-shift-in-ai/",
    "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": "https://chloealpert.com/the-rise-of-slms-why-smaller-is-the-biggest-shift-in-ai/"
    },
    "datePublished": "2025-11-09",
-   "dateModified": "2025-11-09",
+   "dateModified": "2026-08-13",
    "author": {
     "@id": "https://chloealpert.com/#person"
    },
@@ -51,14 +54,18 @@
     "@id": "https://chloealpert.com/#website"
    },
    "inLanguage": "en-US",
-   "wordCount": 836,
+   "wordCount": 847,
+   "image": "https://chloealpert.com/images/og-default.png",
    "keywords": [
     "small language models",
     "SLMs",
-    "LLMs",
-    "AI efficiency",
+    "SLM vs LLM",
+    "inference cost",
     "edge AI",
-    "inference cost"
+    "on-prem AI",
+    "fine-tuning",
+    "model routing",
+    "AI efficiency"
    ]
   },
   {
@@ -79,7 +86,7 @@
     {
      "@type": "ListItem",
      "position": 3,
-     "name": "The Rise of SLMs: Why “Smaller” Is the Biggest Shift in AI",
+     "name": "The Rise of SLMs: Why Smaller Is the Biggest Shift in AI",
      "item": "https://chloealpert.com/the-rise-of-slms-why-smaller-is-the-biggest-shift-in-ai/"
     }
    ]
@@ -104,75 +111,77 @@
   <main id="main">
     <article class="post">
       <header class="post-header">
-        <h1>The Rise of SLMs: Why “Smaller” Is the Biggest Shift in AI</h1>
-        <p class="date"><time datetime="2025-11-09">Nov 9, 2025</time> · 4 min read</p>
+        <h1>The Rise of SLMs: Why Smaller Is the Biggest Shift in AI</h1>
+        <p class="date"><time datetime="2025-11-09">Nov 9, 2025</time> · Updated <time datetime="2026-08-13">Aug 13, 2026</time> · 4 min read</p>
       </header>
       <div class="prose">
-<p>There’s a quiet revolution happening in AI and it’s not coming from the trillion-parameter giants. It’s coming from the small language models (SLMs).<br>
-Everyone’s been chasing scale for the last few years, more data, more parameters, more compute but something fundamental is changing. The real paradigm shift isn’t about building the biggest model possible anymore. It’s about building the right model for the job.</p>
+<p>There’s a quiet revolution happening in AI, and it isn’t coming from the trillion-parameter giants. It’s coming from small language models, or SLMs.</p>
 
-<h4 id="from-bigger-is-better-to-smarter-is-better">From “bigger is better” to “smarter is better”</h4>
+<p>Everyone has been chasing scale for the last few years: more data, more parameters, more compute. Something fundamental is changing. The real paradigm shift isn’t about building the biggest model possible anymore. It’s about building the right model for the job.</p>
 
-<p>For the past five years, the entire industry has operated on a single narrative: bigger models mean better results. It was true, for a while. GPT-4, Gemini, Claude, LLaMA all incredible feats of engineering and scale. But they also brought trade-offs: astronomical compute costs, limited deployability, latency issues, and privacy concerns that made real-world enterprise adoption complicated.</p>
+<h2 id="from-bigger-is-better-to-smarter-is-better">From “bigger is better” to “smarter is better”</h2>
 
-<p>Now, the pendulum is swinging the other way. The next era of AI is being defined by right-sized intelligence smaller, specialized models that are faster, cheaper, more efficient, and actually usable in production. These models don’t try to know everything. They’re built to do one thing really well.</p>
+<p>For the past five years, the entire industry operated on a single narrative: bigger models mean better results. That was true for a while. GPT-4, Gemini, Claude, and LLaMA are all incredible feats of engineering and scale. They also brought trade-offs: astronomical compute costs, limited deployability, latency issues, and privacy concerns that made real-world enterprise adoption complicated.</p>
 
-<h4 id="why-small-is-suddenly-the-smartest-move">Why small is suddenly the smartest move</h4>
+<p>Now the pendulum is swinging the other way. The next era of AI is being defined by right-sized intelligence: smaller, specialized models that are faster, cheaper, more efficient, and actually usable in production. These models don’t try to know everything. They’re built to do one thing really well.</p>
+
+<h2 id="why-small-language-models-are-suddenly-the-smartest-move">Why small language models are suddenly the smartest move</h2>
 
 <p><strong>1. Efficiency changes the economics.</strong><br>
-Running a 175-billion-parameter model for every query isn’t just overkill it’s bad business. SLMs operate at a fraction of the cost, with dramatically lower compute and memory requirements. That opens the door for startups, small teams, and even individuals to deploy serious AI capabilities without enterprise-scale budgets. The cost curve is flattening, and that’s what democratization actually looks like.</p>
+Running a 175-billion-parameter model for every query isn’t just overkill, it’s bad business. SLMs operate at a fraction of the cost, with dramatically lower compute and memory requirements. That opens the door for startups, small teams, and even individuals to deploy serious AI capabilities without enterprise-scale budgets. The inference cost curve is flattening, and that’s what democratization actually looks like.</p>
 
-<p><strong>2. Domain-fit beats general intelligence.</strong><br>
-You don’t need a generalist model trained on all of Reddit to run an underwriting engine, a contract analyzer, or a support triage bot. You need a focused model, trained or fine-tuned on the data that matters. That’s where SLMs shine they’re easier to specialize, faster to retrain, and far more adaptable to niche contexts. They don’t hallucinate as much because they’re not pretending to know everything. They’re scoped, efficient, and purpose-built.</p>
+<p><strong>2. Domain fit beats general intelligence.</strong><br>
+You don’t need a generalist model trained on all of Reddit to run an underwriting engine, a contract analyzer, or a support triage bot. You need a focused model, trained or fine-tuned on the data that matters. That’s where SLMs shine. They’re easier to specialize, faster to retrain, and far more adaptable to niche contexts. They also hallucinate less, because they’re not pretending to know everything. They’re scoped, efficient, and purpose-built.</p>
 
 <p><strong>3. Privacy and deployability matter more than scale.</strong><br>
-We’ve all been through the conversation with legal and compliance about where data lives, who sees it, and how to control it. The ability to self-host or run on-prem fundamentally changes that conversation. SLMs make it possible to deploy models behind a firewall, on devices, or at the edge without sending data back to a black box API. That’s not just good architecture. It’s trustable AI.</p>
+We’ve all had the conversation with legal and compliance about where data lives, who sees it, and how to control it. The ability to self-host or run on-prem fundamentally changes that conversation. SLMs make it possible to deploy models behind a firewall, on devices, or at the edge, without sending data back to a black box API. That isn’t just good architecture. That’s trustable AI.</p>
 
 <p><strong>4. Sustainability is no longer optional.</strong><br>
-Training massive LLMs consumes absurd amounts of energy. The environmental and economic footprint is staggering. SLMs flip that narrative less energy, less compute, lower cost per inference. They align technical innovation with environmental responsibility. And that alignment is going to matter more every year.</p>
+Training massive LLMs consumes absurd amounts of energy, and the environmental and economic footprint is staggering. SLMs flip that narrative: less energy, less compute, lower cost per inference. They align technical innovation with environmental responsibility, and that alignment is going to matter more every year.</p>
 
-<h4 id="this-isnt-a-smaller-model-story-its-a-systems-story">This isn’t a smaller model story, it’s a systems story</h4>
+<h2 id="this-isnt-a-smaller-model-story-its-a-systems-story">This isn’t a smaller model story, it’s a systems story</h2>
 
-<p>The real shift isn’t about model size at all. It’s about architecture. We’re moving from monolithic systems one giant general model doing everything to modular ecosystems of specialized models, each designed to excel at one domain, orchestrated together through smart routing, context sharing, and retrieval layers.</p>
+<p>The real shift isn’t about model size at all. It’s about architecture. We’re moving from monolithic systems, one giant general model doing everything, to modular ecosystems of specialized models, each designed to excel at one domain and orchestrated together through smart routing, context sharing, and retrieval layers.</p>
 
-<p>In other words: instead of “one big brain,” we’re heading toward networks of narrow intelligences.</p>
+<p>In other words, instead of “one big brain,” we’re heading toward networks of narrow intelligences.</p>
 
 <p>That’s how humans work. That’s how organizations work. And now that’s how AI will work.</p>
 
-<h4 id="why-this-is-a-paradigm-shift-not-a-passing-phase">Why this is a paradigm shift, not a passing phase</h4>
+<h2 id="why-this-is-a-paradigm-shift-not-a-passing-phase">Why this is a paradigm shift, not a passing phase</h2>
 
-<p>Every major technology shift starts when the narrative around “more” flips to “enough.”<br>
-We saw it in chips (from clock speed to efficiency), in the web (from heavy pages to lightweight frameworks), and now in AI. The move toward SLMs is that same inflection point; from raw power to practical performance.</p>
+<p>Every major technology shift starts when the narrative around “more” flips to “enough.” We saw it in chips, moving from clock speed to efficiency, and in the web, moving from heavy pages to lightweight frameworks. Now we’re seeing it in AI. The move toward SLMs is that same inflection point, going from raw power to practical performance.</p>
 
-<p>It’s a shift that impacts three key dimensions:</p>
+<p>It’s a shift that lands on three dimensions:</p>
 
 <ul>
-  <li><strong>Accessibility:</strong> Anyone can deploy or fine-tune an SLM. You don’t need a data center or a billion-dollar contract.</li>
-  <li><strong>Governance:</strong> Data stays where it belongs. Enterprises regain control over how AI learns and operates.</li>
-  <li><strong>Strategy:</strong> AI becomes something you build into your stack – not something you rent from someone else’s cloud.</li>
+  <li><strong>Accessibility:</strong> anyone can deploy or fine-tune an SLM. You don’t need a data center or a billion-dollar contract.</li>
+  <li><strong>Governance:</strong> data stays where it belongs. Enterprises regain control over how AI learns and operates.</li>
+  <li><strong>Strategy:</strong> AI becomes something you build into your stack, not something you rent from someone else’s cloud.</li>
 </ul>
 
-<h4 id="the-implications-for-builders-and-investors">The implications for builders and investors</h4>
+<h2 id="what-slms-mean-for-builders-and-investors">What SLMs mean for builders and investors</h2>
 
-<p>For product teams, this means rethinking architecture. Ask: does this feature really need a massive foundation model, or could a small, specialized model deliver the same result faster and cheaper?<br>
-For founders and operators, it’s a distribution opportunity, you can now embed real intelligence into your product without killing your margins.<br>
-For investors, it’s signal detection. The next generation of breakout AI companies won’t just build LLM wrappers, they’ll own the SLM layer: fine-tuned vertical models, domain-specific inference stacks, or orchestration frameworks that blend models intelligently.</p>
+<p>For product teams, this means rethinking architecture. Ask whether a feature really needs a massive foundation model, or whether a small, specialized model could deliver the same result faster and cheaper.</p>
 
-<p>Small models don’t replace large ones entirely. There’s still a need for high-capacity reasoning, general-world knowledge, and creativity the “heavy lifting” that big models are built for. But even there, the future looks hybrid: SLMs for context and precision, LLMs for reasoning and synthesis.</p>
+<p>For founders and operators, it’s a distribution opportunity. You can now embed real intelligence into your product without killing your margins.</p>
 
-<p>Think of it like the evolution of computing itself. We didn’t stop building supercomputers we just stopped expecting every problem to need one. Most of the world runs on smaller, distributed, purpose-built systems and AI is finally catching up to that logic.</p>
+<p>For investors, it’s signal detection. The next generation of breakout AI companies won’t just build LLM wrappers. They’ll own the SLM layer: fine-tuned vertical models, domain-specific inference stacks, or orchestration frameworks that blend models intelligently.</p>
+
+<p>Small models don’t replace large ones entirely. There’s still a need for high-capacity reasoning, general world knowledge, and creativity, the heavy lifting that big models are built for. Even there, the future looks hybrid: SLMs for context and precision, LLMs for reasoning and synthesis.</p>
+
+<p>Think of it like the evolution of computing itself. We didn’t stop building supercomputers, we just stopped expecting every problem to need one. Most of the world runs on smaller, distributed, purpose-built systems, and AI is finally catching up to that logic.</p>
       </div>
     </article>
     <nav class="pager">
-      <a class="prev" href="/how-data-governance-shapes-the-future-of-ai-applications-and-what-businesses-should-be-doing-about-it/">← How Data Governance Shapes the Future of AI Applications and What Businesses Should Be Doing About It.</a>
-      <a class="next" href="/ai-agents-replacing-services-businesses-land-grab/">AI Is coming for services and it’s a land grab →</a>
+      <a class="prev" href="/how-data-governance-shapes-the-future-of-ai-applications-and-what-businesses-should-be-doing-about-it/">← How Data Governance Shapes the Future of AI Applications</a>
+      <a class="next" href="/ai-agents-replacing-services-businesses-land-grab/">AI Agents Are Coming for Services Businesses, and It’s a Land Grab →</a>
     </nav>
     <section class="related">
       <h2 class="section-title">Related</h2>
       <ul class="essays">
-        <li><a href="/the-future-of-enterprise-data-governance-and-management-in-the-age-of-ai-llms/">The future of enterprise data governance and management in the age of AI &amp; LLMs.</a><span class="date">Sep 2023</span></li>
-        <li><a href="/ai-agents-replacing-services-businesses-land-grab/">AI Is coming for services and it’s a land grab</a><span class="date">May 2026</span></li>
-        <li><a href="/how-data-governance-shapes-the-future-of-ai-applications-and-what-businesses-should-be-doing-about-it/">How Data Governance Shapes the Future of AI Applications and What Businesses Should Be Doing About It.</a><span class="date">Dec 2023</span></li>
+        <li><a href="/how-to-model-ownership-dilution-and-how-pro-rata-works-in-venture-capital-deals/">How to Model Ownership and Dilution, and How Pro Rata Works in Venture Capital Deals</a><span class="date">Sep 2020</span></li>
+        <li><a href="/why-venture-capital-firms-with-tons-of-money-cant-write-little-checks/">Why Venture Capital Firms With “Tons of Money” Can’t Write Little Checks</a><span class="date">Aug 2020</span></li>
+        <li><a href="/ai-agents-replacing-services-businesses-land-grab/">AI Agents Are Coming for Services Businesses, and It’s a Land Grab</a><span class="date">May 2026</span></li>
       </ul>
     </section>
   </main>

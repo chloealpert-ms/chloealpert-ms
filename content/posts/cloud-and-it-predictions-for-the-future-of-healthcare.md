@@ -1,24 +1,35 @@
 ---
-title: "Cloud and IT Predictions for The Future of Healthcare"
+title: "Cloud and IT Predictions for the Future of Healthcare"
 date: "2019-08-13"
+updated: "2026-08-13"
 slug: "cloud-and-it-predictions-for-the-future-of-healthcare"
-description: "Healthcare IT is moving off onsite server rooms and legacy systems toward cloud services. What that shift means for hospitals and their vendors."
+description: "Healthcare IT is moving off onsite server rooms and legacy systems toward cloud software. What that shift means for hospitals and their vendors."
 seo_title: "Cloud and IT Predictions for Healthcare"
-keywords: "healthcare IT, cloud computing, hospital software, digital health, health tech"
+keywords: "healthcare IT, cloud computing in healthcare, hospital IT modernization, legacy systems, digital health, telehealth, hospital supply chain, health tech"
 ---
 
-2019 has marked the beginning of a major shift in the healthcare IT space away from onsite server rooms and legacy software systems towards the adoption of cloud-based software services, and the next ten years will be defined by the radical shift towards a cloud-based healthcare system in America.  We’ve seen the rapid adoption of cloud-based strategies in many other enterprise industries, including the banking and services sectors, but the healthcare sector has lagged in its adoption. It has trailed other industries because of a lack of free cash flow and the introduction of the Affordable Care Act in 2010, which forced hospitals to shift to a fee-for-value reimbursement model over a fee-for-service one. The overwhelming nature of this foundational shift in healthcare reimbursements slowed down investment in and adoption of IT innovation for almost a decade. Nearly nine years later, we’re finally starting to see the healthcare industry catch up in its adoption of cloud based strategies. We’ve identified three trends driving this shift.
+2019 marks the beginning of a major shift in healthcare IT, away from onsite server rooms and legacy software systems and toward cloud-based software services. The next ten years will be defined by that move to a cloud-based healthcare system in America.
 
-**1.  Millennial consumers are making their tech preferences known.**
+Cloud adoption came quickly to other enterprise industries, including banking and professional services, but healthcare has lagged. It trailed for two reasons: a lack of free cash flow, and the introduction of the Affordable Care Act in 2010, which pushed hospitals from a fee-for-service reimbursement model to a fee-for-value one. That foundational shift in reimbursement was so consuming that it slowed investment in IT innovation for nearly a decade. Nine years later, healthcare is finally catching up on cloud strategy. Three trends are driving it.
 
-92% of millennials have smartphones versus just 57% of boomers, and only 58% of millennials trust doctors versus 73% of the previous generations.  Millennials are driving change in the care delivery landscape because they prefer to interact with their care-givers through mobile and online social interfaces instead of scheduling an in-person visit. And the healthcare sector is responding. Companies providing new care delivery models, including One Medical and Forward, are heavily focused on remote care and mobile technology. Kaiser Permanente now offers care via telephone and email, and scheduling through its mobile app. Other large healthcare organizations will follow suit, having finally realized the need to invest in cloud-based healthcare.
+## 1. Millennial consumers are making their tech preferences known
 
-**2.  Changing demographics in patient populations are straining healthcare resources, forcing hospitals to become more efficient.**
+92% of millennials have smartphones, versus just 57% of boomers, and only 58% of millennials say they trust doctors, versus 73% of previous generations. Millennials are changing the care delivery landscape because they prefer to interact with their caregivers through mobile and online interfaces rather than schedule an in-person visit.
 
-By 2030 there will be 69.7M boomers on Medicare, leading to a shortage of an estimated 120k doctors. Hospitals will need to get more efficient in order to serve their patients. In 2018, the average hospital had an average operating  profit of 1.7%where 2.5% is a more sustainable number. With such limited free cash flow, most hospitals don’t have the option of increasing staffing to deal with a higher patient volume. Hospitals and healthcare practices are therefore looking towards technology to help drive more efficient care delivery and support functions of care delivery like supply chain and materials management, which often account for 20-40% of a hospital’s capital budget.
+The healthcare sector is responding. Companies building new care delivery models, including One Medical and Forward, are heavily focused on remote care and mobile technology. Kaiser Permanente now offers care by telephone and email, with scheduling through its mobile app. Other large healthcare organizations will follow, having finally recognized the need to invest in cloud-based healthcare.
 
-**3.  We’re in the middle of a generational turnover in executive leadership at hospitals that’s driving modernization.**
+## 2. Changing patient demographics are forcing hospitals to get efficient
 
-Boomers started turning 65 in 2011, and eight-years on, we’re starting to see boomer generation executives retire and make way for a younger set of millennial executives. Because the fee to value shift sparked by the ACA was such a radical, time-consuming change, the outgoing executives didn’t have the time to prioritize investment in technology and cloud-based systems. Their successors, on the other hand, are digital natives with the time and inclination to jettison old legacy systems. This generational shift is driving the healthcare provider investment in overall cloud-based strategies that we’ve seen in other industries.  Investor dollars also support this trend, as we saw an all-time high for diagnostics and tools M&A in 2018, and over $84.3 billion in venture capital investment across all healthcare sectors in 2018.
+By 2030 there will be 69.7 million boomers on Medicare, contributing to an estimated shortage of 120,000 doctors. Hospitals will have to get more efficient to serve their patients.
 
-The next ten years will be all about healthcare providers adopting overall cloud-based strategies. Driven by consumer tech demand, generational turnover in healthcare system executive leadership, and the need to efficiently serve an ever increasing number of patients, the days of limited, expensive, legacy software are numbered. We predict that the change to cloud-based solutions will continue to expand and accelerate in the healthcare sector until it touches every aspect of healthcare.
+In 2018, the average hospital ran an operating profit of 1.7%, where 2.5% is a more sustainable number. With that little free cash flow, most hospitals can’t simply add staff to handle higher patient volume. So hospitals and healthcare practices are turning to technology to deliver care more efficiently, and to run the functions that support care delivery, like supply chain and materials management, which often account for 20% to 40% of a hospital’s capital budget.
+
+## 3. A generational turnover in hospital leadership is driving modernization
+
+Boomers started turning 65 in 2011, and eight years on we’re seeing boomer generation executives retire and make way for a younger set of millennial executives. Because the fee-to-value shift sparked by the ACA was such a radical, time-consuming change, outgoing executives never had the room to prioritize investment in technology and cloud-based systems. Their successors are digital natives with both the time and the inclination to jettison old legacy systems.
+
+That generational shift is driving the same provider investment in cloud strategy we’ve already seen in other industries. Investor dollars support the trend too: 2018 brought an all-time high for diagnostics and tools M&A, plus more than $84.3 billion of venture capital investment across all healthcare sectors.
+
+## What the next decade of healthcare IT looks like
+
+The next ten years will be about healthcare providers adopting cloud strategies wholesale. Driven by consumer tech demand, generational turnover in executive leadership, and the need to serve an ever-increasing number of patients efficiently, the days of limited, expensive legacy software are numbered. The move to cloud-based solutions will keep expanding and accelerating until it touches every part of healthcare.

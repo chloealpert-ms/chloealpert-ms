@@ -71,7 +71,7 @@
     "twitter": "@chloealpert",
 
     "_default_image": "Site-wide social share image, 1200x630. Drop a PNG at static/images/ and put its path here. Per-post images override it via the post's `image:` field.",
-    "default_image": "",
+    "default_image": "/images/og-default.png",
 
     "_same_as": "Profile URLs that prove identity to search engines. Add LinkedIn, X, Crunchbase, Wikipedia — anything that refers to the same person.",
     "same_as": [
