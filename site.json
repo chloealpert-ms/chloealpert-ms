@@ -50,5 +50,31 @@
     { "label": "email", "href": "mailto:chloe@chloealpert.com" }
   ],
 
-  "homepage_essay_count": 6
+  "homepage_essay_count": 6,
+
+  "seo": {
+    "job_title": "Head of Product",
+    "works_for": "Hatcher+",
+    "locale": "en_US",
+    "twitter": "@chloealpert",
+
+    "_default_image": "Site-wide social share image, 1200x630. Drop a PNG at static/images/ and put its path here. Per-post images override it via the post's `image:` field.",
+    "default_image": "",
+
+    "_same_as": "Profile URLs that prove identity to search engines. Add LinkedIn, X, Crunchbase, Wikipedia — anything that refers to the same person.",
+    "same_as": [
+      "https://chloealpert.substack.com",
+      "https://www.forbes.com/profile/chloe-alpert/"
+    ],
+
+    "_knows_about": "Topics this site has authority on. Feeds the Person schema.",
+    "knows_about": [
+      "Artificial intelligence",
+      "Venture capital",
+      "Early-stage investing",
+      "Product management",
+      "Healthcare technology",
+      "Startup operations"
+    ]
+  }
 }
