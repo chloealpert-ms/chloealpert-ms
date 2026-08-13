@@ -1,0 +1,109 @@
+---
+title: "Fundraising Diligence Checklist (AKA what to have in your data room) for early stage companies."
+date: "2020-09-01"
+slug: "fundraising-diligence-checklist-aka-what-to-have-in-your-data-room-for-early-stage-companies"
+description: "When founders hear the phrase “due diligence” I think a lot of folks pause and are somewhat unsure of what investors are actually going to do, especially if it’s your first time fundraising. One thing I recommend all founders do is prepare a data room prior to starting your process in order to have all…"
+---
+
+When founders hear the phrase “due diligence” I think a lot of folks pause and are somewhat unsure of what investors are actually going to do, especially if it’s your first time fundraising. One thing I recommend all founders do is prepare a data room prior to starting your process in order to have all of your diligence documents ready to go. Instead of responding to specific asks and making the investor work, you can simply link them to your data room and move forward with the investment, or pull specific docs for them that are already ready to go. People like working with people who are easy to work with.
+
+In later stages (specifically when you’re doing a priced round), you will want to engage legal counsel to manage your data room, so this advice is mostly applicable to those who are raising pre-seed to series A. Any rounds after those stages/amounts, the financing takes on a different form where you also need to engage a proper CFO with investment banking experience if you don’t already have that background as a founder.
+
+Now there is a camp who will think this level of preparation at the seed level when you’re raising on SAFEs or convertible notes is excessive, and they’re not wrong. You can close your round without this level of granularity. I personally subscribe to the ideology that by showing a certain level of sophistication at the outset of the financing journey, it shows investors that you’re capable of executing on the later rounds where the proverbial shit gets real. Seed through A can be raised on vision, early traction and team, Series B and beyond the rubber hits the road and it’s more about metrics than anything else.
+
+The standard diligence checklist is below and keep in mind that early stage companies definitely will not have everything on this list. For example, if you’re an early stage company and you’ve never issued stock to a non-founder or established an employee equity incentive plan, you will most likely not have completed a 409a valuation, and therefore do not have those documents. That’s fine.
+
+Each bolded heading should be a folder title, and the sub points are the contents of each folder.
+
+- **Corporate Records and Charter Documents**
+  - All minutes of directors’ and stockholders’ meetings, and all written consents of directors and stockholders.
+  - Certificate of Incorporation, Certificates of Designation, Rights, etc., and Bylaws.
+  - A list of each state in which the Company does business, specifying whether the Company is qualified to do business in such state.
+
+- **Business Plan and Financials**
+  - Current Business Plan and any financial projections.
+    - When you’re an early stage company, this will be in the form of a deck, you don’t need to put together a formal written business plan.
+    - In earlier stages, I would treat your financial projects as more of a use of proceeds and a budget, especially if you have no or limited revenue.
+  - Most recent financial statements.
+    - The more the merrier here.
+
+- **Security Issuances and Agreements Concerning Securities**
+  - A list of the Company’s stockholders, including issuance dates and original issuance price. This would be your cap table.
+  - A chronological list of option grants including grant date and exercise price.
+  - Copies of agreements relating to outstanding options, warrants, rights (including conversion or preemptive rights) or agreements for the purchase or acquisition of any of the Company’s securities and agreements relating to the Company’s past stock issuances.
+  - The Company’s Stock Plan and all related form documents. e. Any documents evidencing registration rights for the Company’s securities, or evidencing any agreements among the Company’s stockholders or between the Company and its stockholders.
+  - A summary of the vesting schedules of any stock or options subject to vesting, including any vesting acceleration.
+  - Agreements relating to voting of securities and restrictive share transfers.
+  - Evidence of qualification or exemption under applicable federal and state blue sky laws for issuance or transfer of the Company’s securities.
+  - Copies of Internal Revenue Code Section 409A valuation reports.
+
+- **Intellectual Property**
+  - A list of the Company’s trademarks, patents, copyrights and domain names (or any applications therefor), including documentation of filing or registration with the appropriate governmental entities.
+  - Any documentation relating to the transfer to the Company or any employee of any technology.
+  - Copies of the proprietary information and invention agreements signed by any service provider, including employees and consultants.
+  - A list of any employees or consultants who have not signed proprietary information and invention agreements, including a list of any periods of time when such employees or consultants performed services for the Company while not bound by such agreements.
+  - Any correspondence or documents relating to allegations of the Company’s infringement of the proprietary rights of others or allegations by the Company of infringement of the proprietary rights of the Company.
+  - Copies of all material agreements for licensing of Company technology to third parties, including cross licenses.
+  - Copies of all material agreements for licensing of technology from third parties.
+  - List of all third party software (including open source software) and any/or any derivatives thereto used in conjunction with or otherwise integrated with software that is distributed or hosted by the company. List applicable licenses and licensors for each, and describe communication/ linking amongst such third party software and/or any of the Company’s proprietary software.
+
+- **Material Agreements**
+  - Any agreements, understandings, instruments, contracts or proposed transactions to which the Company is a party or by which it is bound which involve obligations of, or payments to, the Company in excess of $25,000.
+  - Any personal property leases.
+  - Any agreements concerning the purchase, lease or sublease of real property.
+  - Any documents evidencing indebtedness for money borrowed or any other liabilities incurred by the Company.
+  - Any documents evidencing any mortgages, liens, loans and encumbrances with respect to the Company’s property or assets.
+  - Any documents evidencing any loans or advances made by the Company, including documents evidencing loans made to employees for any reason.
+  - Any agreements, understandings or proposed transactions between the Company and any of its officers, directors, affiliates, or any affiliate thereof, including without limitation, non-competition agreements, employment agreements and non-form offer letters.
+  - Any licenses or agreements of any kind with respect to the Company’s or others’ patent, copyright, trade secret or other proprietary rights, proprietary information or technology, including employee confidentiality agreements.
+  - Any insurance policies held by the Company or of which the Company is a beneficiary and a summary of such policies, if available.
+  - Any judgment, order, writ or decree by which the Company is bound or to which it is a party.
+  - Any standard forms of agreements used by the Company.
+  - Any joint venture or partnership agreements.
+  - Any management, service or marketing agreements.
+  - Any confidentiality or nondisclosure agreements.
+  - Any agreements requiring consents or approvals in connection with the financing.
+  - Any documents containing severance payments or acceleration of stock or option vesting.
+  - Any consulting contracts.
+  - Any other agreements material to the business of the Company, or outside the ordinary course of business.
+  - A list of officers and directors. If any officers are not currently devoting 100 percent of their business time to the Company, please note them on this list.
+  - A list of all acquisitions, dispositions, mergers, consolidations and reorganizations, together with all documents relating to any such events. Please also describe any plans for any events of this nature.
+  - Any product or service warranties or indemnities.
+  - Any agreement related to joint ventures or partnerships.
+
+- **Information Regarding Disputes and Potential Litigation**
+  - Any correspondence or documents relating to any pending or threatened action, suit or proceeding or any investigation, including, without limitation, those involving the Company’s employees in connection with their prior or present employment or use of technology.
+  - Any correspondence or documents relating to allegations of the Company’s infringement of the proprietary rights of others.
+  - Any correspondence or documents relating to any labor agreements or actions, union representation or strike or other labor dispute.
+  - Schedule of settled or concluded litigation, claims, suits and proceedings, along with related consent decrees, judgments, orders, settlement agreements and injunctions.
+  - A list of all claims made under any D&O insurance policy or any other insurance policy covering the Company.
+  - Notices of breach or default under any material agreement.
+
+- **Information Regarding Employees and Employee Benefits**
+  - A list of the Company’s employees and consultants, including title, base salary, target bonus (if applicable), commission plan (if applicable), classification (including, if an employee, whether the employee is exempt or non-exempt) and state of residence.
+  - The Company’s standard form of offer letter and/or employment agreement.
+  - Any plans, agreements or arrangements that provide benefits contingent upon a change of control.
+  - Any severance or deferred compensation plans (including any salary deferral agreements, whether oral or written, with employees or consultants).
+  - Any employee benefit plan, including, without limitation, stock option plans, 401(k) plans, pension plans and insurance plans.
+  - Any forms of agreements used in connection with any stock option plans (such as a form of option agreement, notice of exercise and restricted stock purchase agreement).
+  - If the Company sponsors a 401(k) plan, any determination or opinion letter and Form 5500 filings for the most recent year.
+  - All documents or other information relating to any loans made by the Company to its employees, directors or consultants.
+  - The Company’s employee handbook.
+  - If the Company has any foreign employees, a list (separated by country) of all benefits provided to foreign employees.
+
+- **Other Information**
+  - Any securities or ownership interests in other companies held by the Company.
+  - All licenses, permits or government authorization held by the Company or needed to conduct the business of the Company.
+  - List of any current or past officers, directors or key employees who own a direct beneficial interest in any competitor, supplier or customer of the Company, and a description of such interests.
+  - Any complaints regarding accounting, internal controls over financial reporting and auditing matters received by the Company for the past three fiscal years.
+  - A description of all material off-balance sheet transactions or arrangements of the Company (or any of its subsidiaries) together with copies of all relevant documentation.
+  - Company org chart, with future hires identified.
+  - Anything else you think is relevant.
+
+I’ve used Carta’s data room feature before, which I liked thanks to its ability to create read-only watermarked documents and NDAs to view, however as of today I don’t recommend using Carta if you’re not already due to their pricing structures in 2020.
+
+I don’t recommend google docs because I don’t think it’s secure enough, and Dropbox is the most reasonable solution I would suggest for Seed to A founders if you’re not running your data room through your outside counsel. I also suggest Docsend for all deck exchanges. Do understand that investors will screen shot everything and share if you disallow downloading, anyway, so once one investor sees your deck, it will make the rounds. Just expect that.
+
+As for NDAs, I think unless you have a truly groundbreaking deep tech innovation with unprotected IP, my take is that the vast majority of those raising pre-seed to seed should not worry about NDAs for diligence. (Check with your outside counsel on this). At the seed stage, you want to be easy to work with, just as much as you want your investor to be easy to work with. I do think Series A is where companies do need to consider NDAs priori to sharing the data room because companies usually will have confidential contracts at the stage, and want to be in a place to share those safely.
+
+_Thank you to [Perkins Coie LLP](https://www.perkinscoie.com/en/)w_ho provided the bulk of the diligence checklist guidance.

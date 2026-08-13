@@ -1,0 +1,17 @@
+# Netlify/Cloudflare Pages redirects. Every post and page keeps its original
+# WordPress slug, so existing links and search rankings carry over as-is.
+# These cover the paths whose *shape* changed.
+
+# WordPress feed URLs
+/feed              /rss.xml            301
+/feed/             /rss.xml            301
+/rss               /rss.xml            301
+/comments/feed     /rss.xml            301
+
+# The press page was linked without a trailing slash
+/press-and-awards  /press-and-awards/  301
+
+# WordPress internals that should not 404 into a soft page
+/wp-admin/*        /                   301
+/wp-login.php      /                   301
+/?feed=rss2        /rss.xml            301

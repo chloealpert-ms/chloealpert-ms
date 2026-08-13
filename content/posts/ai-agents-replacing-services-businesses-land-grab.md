@@ -1,0 +1,32 @@
+---
+title: "AI Is coming for services and it’s a land grab"
+date: "2026-05-03"
+slug: "ai-agents-replacing-services-businesses-land-grab"
+description: "Agents don’t just help people do the work anymore. They do the work. Everyone keeps asking the same question: will AI-native startups beat incumbents that are adding AI? It’s the wrong frame. This isn’t a clean product-versus-product fight. What’s actually happening is a land grab for services revenue, and agents are the first thing that…"
+---
+
+> Agents don’t just help people do the work anymore. They do the work.
+
+Everyone keeps asking the same question: will AI-native startups beat incumbents that are adding AI? It’s the wrong frame. This isn’t a clean product-versus-product fight. What’s actually happening is a land grab for services revenue, and agents are the first thing that makes that land grab executable at scale.
+
+Software already took the clean parts of business. Anything structured, repeatable, and easy to systematize got turned into SaaS over the last two decades. What remained was everything that didn’t fit neatly into software: messy workflows, human judgment, document-heavy processes, compliance, and the kind of work that usually gets described as “it depends.” Entire industries; consulting, audit, agencies, outsourcing exist because software couldn’t fully replace the human in the loop. That constraint is now gone. **Agents don’t just help people do the work anymore. They do the work.**
+
+This isn’t just another wave of SaaS. SaaS scaled by selling tools to humans. Agents scale by removing the human from the loop entirely. That changes the economic model. Pricing shifts from seats to outcomes. Value shifts from having a good interface to actually executing the work. The defensibility isn’t in features, it’s in controlling the workflow and the data that comes with it. You’re not selling into a services company anymore. You’re competing with it directly.
+
+The AI-native versus incumbent framing misses the real dynamic. Incumbents absolutely have advantages → distribution, trust, regulatory positioning, existing revenue, etc, but they’re structurally constrained. AI-native companies don’t have that baggage. They can rebuild workflows from scratch and aggressively remove labor because they don’t depend on it for margin. This doesn’t play out as a feature comparison. It plays out as cost structure versus output. If a new entrant can deliver most of the outcome at a fraction of the cost and faster, they don’t need to win the entire customer relationship. They just need to take enough to break the incumbent’s margins. Once the margins start to compress, the model becomes fragile.
+
+Incumbents will try to respond by layering AI into what they already do. They’ll improve internal efficiency, quietly reduce headcount, and reposition their services as AI-enabled. What they won’t do, at least not fast enough, is fully cannibalize their own business. Their economics are still tied to billable hours and headcount. AI-native companies are built with the opposite incentive: compress labor, automate aggressively, and price on outcomes. That asymmetry matters more than any individual product decision.
+
+Right now, every AI-native startup is effectively doing the same thing: picking a slice of services revenue and going after it. [Audit](http://www.checkia.fr/), legal, accounting, agencies, recruiting, these are all large, fragmented, inefficient, labor-heavy markets. That combination makes them highly exposed. The interesting part is that this isn’t going to produce a single dominant winner in each category. The barrier to building these companies is lower than it was in previous cycles. They’re faster to ship, require less capital early, and have a very clear ROI narrative. That means you don’t get one or two winners.
+
+**You get dozens, each taking a small piece of the same market.**
+
+That is going to change the investment landscape.
+
+That fragmentation leads directly to what happens next: aggregation. Customers don’t want a dozen narrow tools stitched together to run a single workflow. They want a system that handles the job _end-to-end._ So you end up with a layer of AI-native companies, each owning a slice, and then consolidation begins. This won’t look like classic SaaS consolidation. It will look more like roll-ups. Private equity and later-stage platforms will start stitching these pieces together, centralizing distribution, and expanding margins through integration. The value shifts away from any single tool and into the aggregated system.
+
+From an investment perspective, this is a very different shape than the last cycle. For venture, it means a high volume of opportunities with fast feedback loops and clear monetization paths. For private equity, it’s almost ideal: fragmented supply, proven revenue, and obvious paths to consolidation. But it likely produces fewer massive, standalone public companies than people expect. Not because the market is smaller, but because value gets captured earlier and more incrementally through aggregation rather than a single company scaling to dominance.
+
+What actually wins in this environment isn’t the company with the best model or the most impressive demo. It’s the one that embeds itself into the workflow, controls the data loop, and consistently delivers a measurable outcome that replaces a real cost center. From there, the path is either scaling distribution aggressively or positioning as a critical piece of a larger platform that will eventually be rolled up.
+
+So the real question isn’t whether AI-native startups will beat incumbents. The real question is how quickly they can carve up services revenue before incumbents can structurally adapt, and who ends up owning the layer that ties all of these capabilities together. That’s where the long-term value will sit.

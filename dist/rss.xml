@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Chloe Alpert</title>
+  <link>https://www.chloealpert.com</link>
+  <description>Thoughts on AI, startups, and investing from an operator building at the intersection of software, services, and venture.</description>
+  <language>en-us</language>
+  <atom:link href="https://www.chloealpert.com/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>AI Is coming for services and it’s a land grab</title>
+    <link>https://www.chloealpert.com/ai-agents-replacing-services-businesses-land-grab/</link>
+    <guid isPermaLink="true">https://www.chloealpert.com/ai-agents-replacing-services-businesses-land-grab/</guid>
+    <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+    <description>Agents don’t just help people do the work anymore. They do the work. Everyone keeps asking the same question: will AI-native startups beat incumbents that are adding AI? It’s the wrong frame. This isn’t a clean product-versus-product fight. What’s actually happening is a land grab for services revenue, and agents are the first thing that…</description>
+  </item>
+  <item>
+    <title>The Rise of SLMs: Why “Smaller” Is the Biggest Shift in AI</title>
+    <link>https://www.chloealpert.com/the-rise-of-slms-why-smaller-is-the-biggest-shift-in-ai/</link>
+    <guid isPermaLink="true">https://www.chloealpert.com/the-rise-of-slms-why-smaller-is-the-biggest-shift-in-ai/</guid>
+    <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+    <description>There’s a quiet revolution happening in AI and it’s not coming from the trillion-parameter giants. It’s coming from the small language models (SLMs).Everyone’s been chasing scale for the last few years, more data, more parameters, more compute but something fundamental is changing. The real paradigm shift isn’t about building the biggest model possible anymore. It’s…</description>
+  </item>
+  <item>
+    <title>How Data Governance Shapes the Future of AI Applications and What Businesses Should Be Doing About It.</title>
+    <link>https://www.chloealpert.com/how-data-governance-shapes-the-future-of-ai-applications-and-what-businesses-should-be-doing-about-it/</link>
+    <guid isPermaLink="true">https://www.chloealpert.com/how-data-governance-shapes-the-future-of-ai-applications-and-what-businesses-should-be-doing-about-it/</guid>
+    <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+    <description>As 2024 kicks off, enterprises are keen to adopt Generative AI (GenAI) but often find themselves ill-equipped in terms of their data infrastructure. This deficiency hinders the effective and scalable application of LLMs. In particular, while structured data (such as numerical tables) has traditionally been the focus of data governance, the rise of LLMs has…</description>
+  </item>
+  <item>
+    <title>The future of enterprise data governance and management in the age of AI &amp; LLMs.</title>
+    <link>https://www.chloealpert.com/the-future-of-enterprise-data-governance-and-management-in-the-age-of-ai-llms/</link>
+    <guid isPermaLink="true">https://www.chloealpert.com/the-future-of-enterprise-data-governance-and-management-in-the-age-of-ai-llms/</guid>
+    <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+    <description>The world of enterprise data migration and governance is undergoing major changes, thanks to the rapid advancements in artificial intelligence (AI) and natural language processing (NLP). Language models like GPT-4 by OpenAI have shown an extraordinary capacity to understand and generate human-like language, opening up new doors in the realm of data management. So, let’s…</description>
+  </item>
+  <item>
+    <title>How to write a good complaint email to your manager.</title>
+    <link>https://www.chloealpert.com/how-to-write-a-good-complaint-email-to-your-manager/</link>
+    <guid isPermaLink="true">https://www.chloealpert.com/how-to-write-a-good-complaint-email-to-your-manager/</guid>
+    <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
+    <description>It’s a really tough spot to be in when things aren’t going well at work for reasons that are out of your control, or just for reasons you don’t know how to fix. Maybe it’s another employee or maybe it’s just burnout? A lot of times, employees are worried about brining up these problems to…</description>
+  </item>
+  <item>
+    <title>How to model ownership &amp; dilution, and how pro rata works in venture capital deals.</title>
+    <link>https://www.chloealpert.com/how-to-model-ownership-dilution-and-how-pro-rata-works-in-venture-capital-deals/</link>
+    <guid isPermaLink="true">https://www.chloealpert.com/how-to-model-ownership-dilution-and-how-pro-rata-works-in-venture-capital-deals/</guid>
+    <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+    <description>When you raise $1M on a $5M valuation, that’s selling 20% of the company, right? But what happens when you then raise $7M on a $25M valuation? You’ve sold 28%, you’re already out 48% of your company! Actually no, that’s not the case, and I’ll explain below. When it comes to modeling dilution and pro…</description>
+  </item>
+  <item>
+    <title>Fundraising Diligence Checklist (AKA what to have in your data room) for early stage companies.</title>
+    <link>https://www.chloealpert.com/fundraising-diligence-checklist-aka-what-to-have-in-your-data-room-for-early-stage-companies/</link>
+    <guid isPermaLink="true">https://www.chloealpert.com/fundraising-diligence-checklist-aka-what-to-have-in-your-data-room-for-early-stage-companies/</guid>
+    <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+    <description>When founders hear the phrase “due diligence” I think a lot of folks pause and are somewhat unsure of what investors are actually going to do, especially if it’s your first time fundraising. One thing I recommend all founders do is prepare a data room prior to starting your process in order to have all…</description>
+  </item>
+  <item>
+    <title>Why venture capital firms with “tons of money” can’t write little checks.</title>
+    <link>https://www.chloealpert.com/why-venture-capital-firms-with-tons-of-money-cant-write-little-checks/</link>
+    <guid isPermaLink="true">https://www.chloealpert.com/why-venture-capital-firms-with-tons-of-money-cant-write-little-checks/</guid>
+    <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+    <description>Wouldn’t a company with billions under management throw out $50k-$100k seed checks out like confetti? Here’s why they can’t.</description>
+  </item>
+  <item>
+    <title>Medinas Health’s 2020 Company Values</title>
+    <link>https://www.chloealpert.com/medinas-healths-2020-company-values/</link>
+    <guid isPermaLink="true">https://www.chloealpert.com/medinas-healths-2020-company-values/</guid>
+    <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+    <description>Back in early 2018, the Medinas co-founders sat down and put together a set of values that we wanted to embody as a company. Every quarter the three founders will sit down and give ourselves a letter grade on how we were doing with each value, and it was a really effective tool for us…</description>
+  </item>
+  <item>
+    <title>Cloud and IT Predictions for The Future of Healthcare</title>
+    <link>https://www.chloealpert.com/cloud-and-it-predictions-for-the-future-of-healthcare/</link>
+    <guid isPermaLink="true">https://www.chloealpert.com/cloud-and-it-predictions-for-the-future-of-healthcare/</guid>
+    <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
+    <description>2019 has marked the beginning of a major shift in the healthcare IT space away from onsite server rooms and legacy software systems towards the adoption of cloud-based software services, and the next ten years will be defined by the radical shift towards a cloud-based healthcare system in America. We’ve seen the rapid adoption of…</description>
+  </item>
+</channel>
+</rss>
