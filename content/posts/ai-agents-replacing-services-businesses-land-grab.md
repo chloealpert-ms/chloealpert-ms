@@ -2,7 +2,9 @@
 title: "AI Is coming for services and it’s a land grab"
 date: "2026-05-03"
 slug: "ai-agents-replacing-services-businesses-land-grab"
-description: "Agents don’t just help people do the work anymore. They do the work. Everyone keeps asking the same question: will AI-native startups beat incumbents that are adding AI? It’s the wrong frame. This isn’t a clean product-versus-product fight. What’s actually happening is a land grab for services revenue, and agents are the first thing that…"
+description: "Agents no longer just help with the work — they do it. Why the real contest in AI services is a land grab for distribution, not model quality."
+seo_title: "AI Is Coming for Services"
+keywords: "AI agents, services businesses, AI-native startups, incumbents, vertical AI"
 ---
 
 > Agents don’t just help people do the work anymore. They do the work.

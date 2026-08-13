@@ -2,7 +2,9 @@
 title: "The Rise of SLMs: Why “Smaller” Is the Biggest Shift in AI"
 date: "2025-11-09"
 slug: "the-rise-of-slms-why-smaller-is-the-biggest-shift-in-ai"
-description: "There’s a quiet revolution happening in AI and it’s not coming from the trillion-parameter giants. It’s coming from the small language models (SLMs).Everyone’s been chasing scale for the last few years, more data, more parameters, more compute but something fundamental is changing. The real paradigm shift isn’t about building the biggest model possible anymore. It’s…"
+description: "The biggest shift in AI isn't bigger models — it's smaller ones. Why small language models beat frontier LLMs on cost, latency, and control."
+seo_title: "The Rise of Small Language Models"
+keywords: "small language models, SLMs, LLMs, AI efficiency, edge AI, inference cost"
 ---
 
 There’s a quiet revolution happening in AI and it’s not coming from the trillion-parameter giants. It’s coming from the small language models (SLMs).

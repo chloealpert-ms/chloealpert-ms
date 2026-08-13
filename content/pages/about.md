@@ -1,6 +1,7 @@
 ---
 title: "About"
 slug: "about"
+description: "Chloe Alpert is Head of Product at Hatcher+, leading AI for early-stage investing. Previously founder and CEO of Medinas Health (YC S18)."
 ---
 
 I’m Head of Product at [Hatcher+,](http://www.hatcher.com) where I oversee the company’s AI initiatives. My work centers on developing and scaling predictive intelligence for early-stage investing through Hatcher Score, our proprietary AI platform, as well as working on technology to help power fund manager and fund administrators. I lead the application of 75+ machine learning models that power 12+ predictive scores and projections, helping forecast company success with measurable accuracy. I’ve launched multiple AI-driven products, including an investment search engine that evaluates 23 dimensions of company performance and content-assessment tools that automate early-stage deal analysis. I also spearhead strategic partnerships, including collaborations with Fortune 10 companies, to expand the commercial reach and practical applications of our AI across the venture ecosystem.

@@ -2,7 +2,9 @@
 title: "Fundraising Diligence Checklist (AKA what to have in your data room) for early stage companies."
 date: "2020-09-01"
 slug: "fundraising-diligence-checklist-aka-what-to-have-in-your-data-room-for-early-stage-companies"
-description: "When founders hear the phrase “due diligence” I think a lot of folks pause and are somewhat unsure of what investors are actually going to do, especially if it’s your first time fundraising. One thing I recommend all founders do is prepare a data room prior to starting your process in order to have all…"
+description: "What investors actually ask for in due diligence, and exactly what belongs in your data room as an early-stage founder. A section-by-section checklist."
+seo_title: "Fundraising Diligence Checklist"
+keywords: "fundraising, due diligence, data room, early stage startups, diligence checklist"
 ---
 
 When founders hear the phrase “due diligence” I think a lot of folks pause and are somewhat unsure of what investors are actually going to do, especially if it’s your first time fundraising. One thing I recommend all founders do is prepare a data room prior to starting your process in order to have all of your diligence documents ready to go. Instead of responding to specific asks and making the investor work, you can simply link them to your data room and move forward with the investment, or pull specific docs for them that are already ready to go. People like working with people who are easy to work with.

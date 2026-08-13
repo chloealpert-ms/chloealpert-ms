@@ -2,7 +2,9 @@
 title: "Why venture capital firms with “tons of money” can’t write little checks."
 date: "2020-08-31"
 slug: "why-venture-capital-firms-with-tons-of-money-cant-write-little-checks"
-description: "Wouldn’t a company with billions under management throw out $50k-$100k seed checks out like confetti? Here’s why they can’t."
+description: "Why a firm with billions under management still won't write a $50k seed check: fund math, ownership targets, and partner time, explained plainly."
+seo_title: "Why Big VC Funds Can't Write Small Checks"
+keywords: "venture capital, seed funding, fund economics, check size, ownership targets"
 ---
 
 I often speak with frustrated founders in the middle of a seed/pre-seed fundraising process, and they say something along the lines of “they [venture firm] have so much money, why can’t they just give me $50k!” Which seems on point when you look at the problem on the surface. General Catalyst for example, has something like $7bn assets under management (AUM), so wouldn’t it make sense for them to throw $50k-$100k seed checks out like confetti?

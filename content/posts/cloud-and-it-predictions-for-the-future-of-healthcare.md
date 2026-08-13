@@ -2,7 +2,9 @@
 title: "Cloud and IT Predictions for The Future of Healthcare"
 date: "2019-08-13"
 slug: "cloud-and-it-predictions-for-the-future-of-healthcare"
-description: "2019 has marked the beginning of a major shift in the healthcare IT space away from onsite server rooms and legacy software systems towards the adoption of cloud-based software services, and the next ten years will be defined by the radical shift towards a cloud-based healthcare system in America. We’ve seen the rapid adoption of…"
+description: "Healthcare IT is moving off onsite server rooms and legacy systems toward cloud services. What that shift means for hospitals and their vendors."
+seo_title: "Cloud and IT Predictions for Healthcare"
+keywords: "healthcare IT, cloud computing, hospital software, digital health, health tech"
 ---
 
 2019 has marked the beginning of a major shift in the healthcare IT space away from onsite server rooms and legacy software systems towards the adoption of cloud-based software services, and the next ten years will be defined by the radical shift towards a cloud-based healthcare system in America.  We’ve seen the rapid adoption of cloud-based strategies in many other enterprise industries, including the banking and services sectors, but the healthcare sector has lagged in its adoption. It has trailed other industries because of a lack of free cash flow and the introduction of the Affordable Care Act in 2010, which forced hospitals to shift to a fee-for-value reimbursement model over a fee-for-service one. The overwhelming nature of this foundational shift in healthcare reimbursements slowed down investment in and adoption of IT innovation for almost a decade. Nearly nine years later, we’re finally starting to see the healthcare industry catch up in its adoption of cloud based strategies. We’ve identified three trends driving this shift.

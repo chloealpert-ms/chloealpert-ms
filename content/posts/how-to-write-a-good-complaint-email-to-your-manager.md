@@ -2,7 +2,9 @@
 title: "How to write a good complaint email to your manager."
 date: "2020-09-13"
 slug: "how-to-write-a-good-complaint-email-to-your-manager"
-description: "It’s a really tough spot to be in when things aren’t going well at work for reasons that are out of your control, or just for reasons you don’t know how to fix. Maybe it’s another employee or maybe it’s just burnout? A lot of times, employees are worried about brining up these problems to…"
+description: "How to raise a serious problem with your manager in writing: what to include, what to leave out, and how to stay factual enough to be acted on."
+seo_title: "Writing a Complaint Email to Your Manager"
+keywords: "complaint email, workplace communication, managing up, escalation, HR"
 ---
 
 It’s a really tough spot to be in when things aren’t going well at work for reasons that are out of your control, or just for reasons you don’t know how to fix. Maybe it’s another employee or maybe it’s just burnout? A lot of times, employees are worried about brining up these problems to their manager because they think they may put their job at risk for any number of reasons. To the contrary, managers really do want to know what’s going on so they can help.

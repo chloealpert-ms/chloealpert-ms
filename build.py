@@ -67,6 +67,22 @@ def fmt_date(iso, long=False):
 # --- templates --------------------------------------------------------------
 
 
+def clamp(text, limit):
+    """Trim to `limit` chars on a word boundary, preferring a sentence end.
+
+    A meta description Google cuts mid-word looks broken in results, so this
+    is a safety net under whatever `description:` a post declares.
+    """
+    text = re.sub(r"\s+", " ", (text or "")).strip()
+    if len(text) <= limit:
+        return text
+    window = text[: limit + 1]
+    stop = max(window.rfind(". "), window.rfind("? "), window.rfind("! "))
+    if stop >= limit * 0.6:
+        return window[: stop + 1].strip()
+    return window[: window.rfind(" ")].rstrip(" ,;:—-") + "…"
+
+
 def abs_url(cfg, path):
     """Absolute URL. Structured data and OG tags must never use relative paths."""
     if not path:
@@ -134,8 +150,13 @@ def layout(
     )
     seo = cfg.get("seo", {})
     canonical = cfg["url"].rstrip("/") + path
-    full_title = title if title == cfg["title"] else f"{title} — {cfg['title']}"
-    desc = description or cfg["description"]
+    # Only append the site name when there's room inside Google's ~60 char
+    # display width; otherwise the suffix just pushes the real title out.
+    if title == cfg["title"] or len(title) + len(cfg["title"]) + 3 > 60:
+        full_title = title
+    else:
+        full_title = f"{title} — {cfg['title']}"
+    desc = clamp(description or cfg["description"], 158)
     year = datetime.date.today().year
     cls = f' class="{extra_class}"' if extra_class else ""
 
@@ -466,7 +487,8 @@ def post_page(cfg, post, prev_post, next_post):
 
     return layout(
         cfg,
-        title=post["title"],
+        # `seo_title` lets a long editorial headline keep a short search title.
+        title=post.get("seo_title") or post["title"],
         body=body,
         description=desc,
         path=f"/{post['slug']}/",
@@ -588,9 +610,16 @@ def sitemap(cfg, entries):
 # --- build ------------------------------------------------------------------
 
 
+BASE = ""  # set by --base, e.g. "/chloealpert-ms" for GitHub project pages
+
+
 def write(relpath, text):
     dest = os.path.join(DIST, relpath.lstrip("/"))
     os.makedirs(os.path.dirname(dest), exist_ok=True)
+    if BASE and relpath.endswith(".html"):
+        # Prefix root-relative links only. Absolute URLs (canonical, og:url,
+        # outbound links) start with a scheme and are left alone.
+        text = re.sub(r'(href|src)="/(?!/)', rf'\1="{BASE}/', text)
     with open(dest, "w") as f:
         f.write(text)
 
@@ -599,7 +628,16 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--serve", action="store_true", help="serve dist/ after building")
     ap.add_argument("--port", type=int, default=8000)
+    ap.add_argument(
+        "--base",
+        default="",
+        help="path prefix for hosting in a subdirectory, e.g. /repo-name "
+        "for GitHub project pages. Not needed on a custom domain.",
+    )
     args = ap.parse_args()
+
+    global BASE
+    BASE = args.base.rstrip("/")
 
     cfg = load_config()
     posts = load_dir("posts")
@@ -650,6 +688,20 @@ def main():
         shutil.copytree(src, dst) if os.path.isdir(src) else shutil.copy2(src, dst)
 
     print(f"Built {len(posts)} posts, {len(pages)} pages -> dist/")
+
+    # Surface SEO errors right where you'd notice them, without failing the build.
+    try:
+        from seo_check import audit
+
+        _, issues = audit()
+        errs = sum(1 for v in issues.values() for lvl, _ in v if lvl == "error")
+        warns = sum(1 for v in issues.values() for lvl, _ in v if lvl == "warn")
+        if errs or warns:
+            print(f"SEO: {errs} errors, {warns} warnings — python3 tools/seo_check.py")
+        else:
+            print("SEO: clean")
+    except Exception:  # noqa: BLE001 - the audit must never break a build
+        pass
 
     if args.serve:
         import functools

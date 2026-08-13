@@ -1,6 +1,7 @@
 ---
 title: "Newsletter"
 slug: "newsletter"
+description: "A newsletter on startup operations, AI trends, and venture capital from Chloe Alpert. One or two issues a month, free to join."
 ---
 
 I write once or twice a month about operations, AI trends, and venture capital. Join for free if you’d like to read along.

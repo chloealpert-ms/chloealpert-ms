@@ -2,7 +2,9 @@
 title: "How Data Governance Shapes the Future of AI Applications and What Businesses Should Be Doing About It."
 date: "2023-12-13"
 slug: "how-data-governance-shapes-the-future-of-ai-applications-and-what-businesses-should-be-doing-about-it"
-description: "As 2024 kicks off, enterprises are keen to adopt Generative AI (GenAI) but often find themselves ill-equipped in terms of their data infrastructure. This deficiency hinders the effective and scalable application of LLMs. In particular, while structured data (such as numerical tables) has traditionally been the focus of data governance, the rise of LLMs has…"
+description: "Enterprises want generative AI but lack the data infrastructure for it. How governance decides which AI applications work, and what to fix first."
+seo_title: "Data Governance and the Future of AI"
+keywords: "data governance, generative AI, enterprise AI, data infrastructure, GenAI adoption"
 ---
 
 As 2024 kicks off, enterprises are keen to adopt Generative AI (GenAI) but often find themselves ill-equipped in terms of their data infrastructure. This deficiency hinders the effective and scalable application of LLMs.

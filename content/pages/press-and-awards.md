@@ -1,6 +1,8 @@
 ---
 title: "Press / Awards"
 slug: "press-and-awards"
+seo_title: "Press and Awards"
+description: "Press coverage and awards for Chloe Alpert, including Forbes 30 Under 30, the WeWork Creator Awards, and features in Newsweek and TechCrunch."
 ---
 
 ## Awards & Recognition

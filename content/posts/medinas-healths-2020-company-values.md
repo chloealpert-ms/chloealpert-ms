@@ -2,7 +2,8 @@
 title: "Medinas Health’s 2020 Company Values"
 date: "2020-01-10"
 slug: "medinas-healths-2020-company-values"
-description: "Back in early 2018, the Medinas co-founders sat down and put together a set of values that we wanted to embody as a company. Every quarter the three founders will sit down and give ourselves a letter grade on how we were doing with each value, and it was a really effective tool for us…"
+description: "The values Medinas Health ran on in 2020, how the founders graded themselves each quarter, and why we rewrote them as the team grew."
+keywords: "company values, startup culture, leadership, Medinas Health, operating principles"
 ---
 
 Back in early 2018, the Medinas co-founders sat down and put together a set of values that we wanted to embody as a company. Every quarter the three founders will sit down and give ourselves a letter grade on how we were doing with each value, and it was a really effective tool for us to keep us accountable to our commitment. It’s nearly two years later, and we have a much larger team, so we decided it was time to take a fresh look at our company values and refine them into who we want to be as a company moving forward.
