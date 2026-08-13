@@ -5,7 +5,7 @@
   "email": "chloe@chloealpert.com",
   "description": "Thoughts on AI, startups, and investing from an operator building at the intersection of software, services, and venture.",
 
-  "intro": "I'm Head of Product at Hatcher+, where I lead our AI work — predictive intelligence for early-stage investing. Previously CEO and co-founder of Medinas Health (YC S18). I write about operations, AI, and venture capital.",
+  "intro": "I'm a founder and investor. My focus right now is a set of stealth projects at the intersection of finance and AI. I also run Ring Mint, a custom engagement ring concierge. I invest at seed and angel stage, and I write about operations, AI, and venture capital.",
 
   "nav": [
     { "label": "essays", "href": "/essays/" },
@@ -16,9 +16,21 @@
 
   "building": [
     {
+      "name": "In stealth",
+      "blurb": "Founder. Projects at the intersection of finance and AI. More soon."
+    },
+    {
+      "name": "Ring Mint",
+      "href": "https://ringmint.com",
+      "blurb": "Founder. A custom engagement ring concierge. Every ring is designed from scratch in CAD and manufactured to order, with diamonds sourced against the client's brief from a global network of more than two million stones. No showroom, no held inventory."
+    }
+  ],
+
+  "previously": [
+    {
       "name": "Hatcher+",
       "href": "http://www.hatcher.com",
-      "blurb": "Head of Product. 75+ machine learning models powering 12+ predictive scores for early-stage investing."
+      "blurb": "Head of Product. Led the company's AI work: 75+ machine learning models powering 12+ predictive scores for early-stage investing."
     },
     {
       "name": "Medinas Health",
@@ -53,8 +65,8 @@
   "homepage_essay_count": 6,
 
   "seo": {
-    "job_title": "Head of Product",
-    "works_for": "Hatcher+",
+    "job_title": "Founder",
+    "works_for": "Ring Mint",
     "locale": "en_US",
     "twitter": "@chloealpert",
 

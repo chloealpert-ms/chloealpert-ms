@@ -137,6 +137,9 @@ main section { margin-bottom: 72px; }
 }
 .card-name:hover { border-bottom-color: currentColor; }
 
+/* unlinked card (e.g. stealth work) — no rule, so it doesn't read as a link */
+span.card-name { border-bottom: none; }
+
 .cards p { margin: 6px 0 0; color: var(--muted); }
 
 /* --- essay list --- */

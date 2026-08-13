@@ -253,14 +253,29 @@ def essay_list(posts, limit=None):
     return '    <ul class="essays">\n' + "\n".join(rows) + "\n    </ul>"
 
 
-def home_page(cfg, posts):
-    building = "\n".join(
+def card_list(items):
+    """Render a .cards list. Entries without an href render unlinked."""
+
+    def name(c):
+        if c.get("href"):
+            return (
+                f'<a class="card-name" href="{esc(c["href"])}"'
+                f' target="_blank" rel="noopener">{esc(c["name"])}</a>'
+            )
+        return f'<span class="card-name">{esc(c["name"])}</span>'
+
+    return "\n".join(
         f"""      <li>
-        <a class="card-name" href="{esc(b["href"])}" target="_blank" rel="noopener">{esc(b["name"])}</a>
-        <p>{esc(b["blurb"])}</p>
+        {name(c)}
+        <p>{esc(c["blurb"])}</p>
       </li>"""
-        for b in cfg.get("building", [])
+        for c in items
     )
+
+
+def home_page(cfg, posts):
+    building = card_list(cfg.get("building", []))
+    previously = card_list(cfg.get("previously", []))
     investing = " · ".join(
         f'<a href="{esc(i["href"])}" target="_blank" rel="noopener">{esc(i["name"])}</a>'
         + (f' <span class="note">({esc(i["note"])})</span>' if i.get("note") else "")
@@ -286,13 +301,20 @@ def home_page(cfg, posts):
     </section>
 
     <section>
-      <h2 class="section-title">What I'm thinking</h2>
-{essay_list(posts, n)}{more}
+      <h2 class="section-title">Previously</h2>
+      <ul class="cards">
+{previously}
+      </ul>
     </section>
 
     <section>
       <h2 class="section-title">What I'm backing</h2>
       <p class="inline-list">{investing}</p>
+    </section>
+
+    <section>
+      <h2 class="section-title">What I'm thinking</h2>
+{essay_list(posts, n)}{more}
     </section>"""
 
     base = cfg["url"].rstrip("/")
