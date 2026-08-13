@@ -4,14 +4,14 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
   <title>Chloe Alpert</title>
-  <link>https://www.chloealpert.com</link>
+  <link>https://chloealpert.com</link>
   <description>Thoughts on AI, startups, and investing from an operator building at the intersection of software, services, and venture.</description>
   <language>en-us</language>
-  <atom:link href="https://www.chloealpert.com/rss.xml" rel="self" type="application/rss+xml"/>
+  <atom:link href="https://chloealpert.com/rss.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>AI Is coming for services and it’s a land grab</title>
-    <link>https://www.chloealpert.com/ai-agents-replacing-services-businesses-land-grab/</link>
-    <guid isPermaLink="true">https://www.chloealpert.com/ai-agents-replacing-services-businesses-land-grab/</guid>
+    <link>https://chloealpert.com/ai-agents-replacing-services-businesses-land-grab/</link>
+    <guid isPermaLink="true">https://chloealpert.com/ai-agents-replacing-services-businesses-land-grab/</guid>
     <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
     <dc:creator>Chloe Alpert</dc:creator>
     <description>Agents no longer just help with the work — they do it. Why the real contest in AI services is a land grab for distribution, not model quality.</description>
@@ -43,8 +43,8 @@
   </item>
   <item>
     <title>The Rise of SLMs: Why “Smaller” Is the Biggest Shift in AI</title>
-    <link>https://www.chloealpert.com/the-rise-of-slms-why-smaller-is-the-biggest-shift-in-ai/</link>
-    <guid isPermaLink="true">https://www.chloealpert.com/the-rise-of-slms-why-smaller-is-the-biggest-shift-in-ai/</guid>
+    <link>https://chloealpert.com/the-rise-of-slms-why-smaller-is-the-biggest-shift-in-ai/</link>
+    <guid isPermaLink="true">https://chloealpert.com/the-rise-of-slms-why-smaller-is-the-biggest-shift-in-ai/</guid>
     <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
     <dc:creator>Chloe Alpert</dc:creator>
     <description>The biggest shift in AI isn&#x27;t bigger models — it&#x27;s smaller ones. Why small language models beat frontier LLMs on cost, latency, and control.</description>
@@ -104,8 +104,8 @@ For investors, it’s signal detection. The next generation of breakout AI compa
   </item>
   <item>
     <title>How Data Governance Shapes the Future of AI Applications and What Businesses Should Be Doing About It.</title>
-    <link>https://www.chloealpert.com/how-data-governance-shapes-the-future-of-ai-applications-and-what-businesses-should-be-doing-about-it/</link>
-    <guid isPermaLink="true">https://www.chloealpert.com/how-data-governance-shapes-the-future-of-ai-applications-and-what-businesses-should-be-doing-about-it/</guid>
+    <link>https://chloealpert.com/how-data-governance-shapes-the-future-of-ai-applications-and-what-businesses-should-be-doing-about-it/</link>
+    <guid isPermaLink="true">https://chloealpert.com/how-data-governance-shapes-the-future-of-ai-applications-and-what-businesses-should-be-doing-about-it/</guid>
     <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
     <dc:creator>Chloe Alpert</dc:creator>
     <description>Enterprises want generative AI but lack the data infrastructure for it. How governance decides which AI applications work, and what to fix first.</description>
@@ -142,8 +142,8 @@ The field of AI and LLMs is rapidly evolving. Organizations need to invest in co
   </item>
   <item>
     <title>The future of enterprise data governance and management in the age of AI &amp; LLMs.</title>
-    <link>https://www.chloealpert.com/the-future-of-enterprise-data-governance-and-management-in-the-age-of-ai-llms/</link>
-    <guid isPermaLink="true">https://www.chloealpert.com/the-future-of-enterprise-data-governance-and-management-in-the-age-of-ai-llms/</guid>
+    <link>https://chloealpert.com/the-future-of-enterprise-data-governance-and-management-in-the-age-of-ai-llms/</link>
+    <guid isPermaLink="true">https://chloealpert.com/the-future-of-enterprise-data-governance-and-management-in-the-age-of-ai-llms/</guid>
     <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
     <dc:creator>Chloe Alpert</dc:creator>
     <description>AI and NLP are reshaping enterprise data migration and governance. What changes for data teams, and where LLMs genuinely help versus add risk.</description>
@@ -175,8 +175,8 @@ The field of AI and LLMs is rapidly evolving. Organizations need to invest in co
   </item>
   <item>
     <title>How to write a good complaint email to your manager.</title>
-    <link>https://www.chloealpert.com/how-to-write-a-good-complaint-email-to-your-manager/</link>
-    <guid isPermaLink="true">https://www.chloealpert.com/how-to-write-a-good-complaint-email-to-your-manager/</guid>
+    <link>https://chloealpert.com/how-to-write-a-good-complaint-email-to-your-manager/</link>
+    <guid isPermaLink="true">https://chloealpert.com/how-to-write-a-good-complaint-email-to-your-manager/</guid>
     <pubDate>Sun, 13 Sep 2020 00:00:00 +0000</pubDate>
     <dc:creator>Chloe Alpert</dc:creator>
     <description>How to raise a serious problem with your manager in writing: what to include, what to leave out, and how to stay factual enough to be acted on.</description>
@@ -230,8 +230,8 @@ The field of AI and LLMs is rapidly evolving. Organizations need to invest in co
   </item>
   <item>
     <title>How to model ownership &amp; dilution, and how pro rata works in venture capital deals.</title>
-    <link>https://www.chloealpert.com/how-to-model-ownership-dilution-and-how-pro-rata-works-in-venture-capital-deals/</link>
-    <guid isPermaLink="true">https://www.chloealpert.com/how-to-model-ownership-dilution-and-how-pro-rata-works-in-venture-capital-deals/</guid>
+    <link>https://chloealpert.com/how-to-model-ownership-dilution-and-how-pro-rata-works-in-venture-capital-deals/</link>
+    <guid isPermaLink="true">https://chloealpert.com/how-to-model-ownership-dilution-and-how-pro-rata-works-in-venture-capital-deals/</guid>
     <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
     <dc:creator>Chloe Alpert</dc:creator>
     <description>Raise $1M at $5M, then $7M at $25M — how much do you still own? Modeling ownership, dilution, and pro rata rights across venture rounds, with tables.</description>
@@ -282,8 +282,8 @@ The field of AI and LLMs is rapidly evolving. Organizations need to invest in co
   </item>
   <item>
     <title>Fundraising Diligence Checklist (AKA what to have in your data room) for early stage companies.</title>
-    <link>https://www.chloealpert.com/fundraising-diligence-checklist-aka-what-to-have-in-your-data-room-for-early-stage-companies/</link>
-    <guid isPermaLink="true">https://www.chloealpert.com/fundraising-diligence-checklist-aka-what-to-have-in-your-data-room-for-early-stage-companies/</guid>
+    <link>https://chloealpert.com/fundraising-diligence-checklist-aka-what-to-have-in-your-data-room-for-early-stage-companies/</link>
+    <guid isPermaLink="true">https://chloealpert.com/fundraising-diligence-checklist-aka-what-to-have-in-your-data-room-for-early-stage-companies/</guid>
     <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
     <dc:creator>Chloe Alpert</dc:creator>
     <description>What investors actually ask for in due diligence, and exactly what belongs in your data room as an early-stage founder. A section-by-section checklist.</description>
@@ -428,8 +428,8 @@ The field of AI and LLMs is rapidly evolving. Organizations need to invest in co
   </item>
   <item>
     <title>Why venture capital firms with “tons of money” can’t write little checks.</title>
-    <link>https://www.chloealpert.com/why-venture-capital-firms-with-tons-of-money-cant-write-little-checks/</link>
-    <guid isPermaLink="true">https://www.chloealpert.com/why-venture-capital-firms-with-tons-of-money-cant-write-little-checks/</guid>
+    <link>https://chloealpert.com/why-venture-capital-firms-with-tons-of-money-cant-write-little-checks/</link>
+    <guid isPermaLink="true">https://chloealpert.com/why-venture-capital-firms-with-tons-of-money-cant-write-little-checks/</guid>
     <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
     <dc:creator>Chloe Alpert</dc:creator>
     <description>Why a firm with billions under management still won&#x27;t write a $50k seed check: fund math, ownership targets, and partner time, explained plainly.</description>
@@ -473,8 +473,8 @@ The field of AI and LLMs is rapidly evolving. Organizations need to invest in co
   </item>
   <item>
     <title>Medinas Health’s 2020 Company Values</title>
-    <link>https://www.chloealpert.com/medinas-healths-2020-company-values/</link>
-    <guid isPermaLink="true">https://www.chloealpert.com/medinas-healths-2020-company-values/</guid>
+    <link>https://chloealpert.com/medinas-healths-2020-company-values/</link>
+    <guid isPermaLink="true">https://chloealpert.com/medinas-healths-2020-company-values/</guid>
     <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
     <dc:creator>Chloe Alpert</dc:creator>
     <description>The values Medinas Health ran on in 2020, how the founders graded themselves each quarter, and why we rewrote them as the team grew.</description>
@@ -510,8 +510,8 @@ The field of AI and LLMs is rapidly evolving. Organizations need to invest in co
   </item>
   <item>
     <title>Cloud and IT Predictions for The Future of Healthcare</title>
-    <link>https://www.chloealpert.com/cloud-and-it-predictions-for-the-future-of-healthcare/</link>
-    <guid isPermaLink="true">https://www.chloealpert.com/cloud-and-it-predictions-for-the-future-of-healthcare/</guid>
+    <link>https://chloealpert.com/cloud-and-it-predictions-for-the-future-of-healthcare/</link>
+    <guid isPermaLink="true">https://chloealpert.com/cloud-and-it-predictions-for-the-future-of-healthcare/</guid>
     <pubDate>Tue, 13 Aug 2019 00:00:00 +0000</pubDate>
     <dc:creator>Chloe Alpert</dc:creator>
     <description>Healthcare IT is moving off onsite server rooms and legacy systems toward cloud services. What that shift means for hospitals and their vendors.</description>
