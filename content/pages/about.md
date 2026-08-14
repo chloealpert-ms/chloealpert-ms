@@ -1,12 +1,12 @@
 ---
 title: "About"
 slug: "about"
-description: "Chloe Alpert is a founder and investor building at the intersection of finance and AI. Previously Head of Product at Hatcher+ and CEO of Medinas Health."
+description: "Chloe Alpert is a founder and investor working at the intersection of finance and AI, and runs Ring Mint, a family fine jewelry business making and sourcing to order."
 ---
 
 I’m a founder and investor. My focus right now is a set of stealth projects at the intersection of finance and AI. More on those when there’s more to say.
 
-I also run [Ring Mint](https://ringmint.com), a custom engagement ring concierge. Every ring is designed from scratch in CAD and manufactured to order, with natural or lab created diamonds sourced against the client’s brief from a global network of more than two million stones. There is no showroom and no held inventory: stones are sourced only after a client describes what they want, which means no inventory cost and no incentive to steer anyone toward a particular diamond. Founded in 1974, refined in 2026.
+I also run [Ring Mint](https://ringmint.com), a fine jewelry concierge built on a simple premise: make and source to order. Custom work is built the way the piece demands, by CAD, by hand, or both, and by whichever master craftsman is right for the job, or by me. We do everything from engagement rings, wedding bands, earrings, and necklaces to ready made jewelry and fully custom rare pieces. I source against each client’s brief to curate the best possible result every time. The goal is to find the piece that belongs to the moment they are marking, in the best way possible and below jewelry-store prices. Our family business, founded in 1974 and refined in 2026.
 
 I invest at seed and angel stage. My portfolio includes [True Metrics](https://www.truemetrics.io/), [Deasy Labs (EXIT)](https://www.deasylabs.com/), [Andromeda Surgical](https://www.andromedasurgical.com/) (Series A), [Kobalt Labs](https://www.kobaltlabs.com/) (Series A), and [Affinity](https://www.itsaffinity.com/), and I’m an angel investor in [Frontier Markets](https://frontiersmarket.com/). I’m also an advisor to various companies, including [Synthetic Turing.](https://syntheticturing.com/)
 
